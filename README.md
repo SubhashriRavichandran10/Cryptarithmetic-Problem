@@ -81,7 +81,7 @@ MONEY = 10652<br>
 
 ## Program:
 
-
+```
 # -*- coding: utf-8 -*-
 """CSP.ipynb
 
@@ -122,6 +122,7 @@ if solution:
 else:
     print("No solution found.")
 
+```
 
 ## OUTPUT
 
